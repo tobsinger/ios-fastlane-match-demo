@@ -1,0 +1,9 @@
+git_url "https://github.com/PDLBDeveloper/match-private-repository.git"
+
+type "development" # The default type, can be: appstore, adhoc or development
+
+app_identifier “com.mhp.lab.MatchTestApp” 
+# username "user@fastlane.tools" # Your Apple Developer Portal username
+
+# For all available options run `match --help`
+# Remove the # in the beginning of the line to enable the other options

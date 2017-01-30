@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='MatchTestAppTests.xctest' tests='2' failures='0'>
+  <testsuite name='MatchTestAppTests.MatchTestAppTests' tests='2' failures='0'>
+    <testcase classname='MatchTestAppTests.MatchTestAppTests' name='testExample' time='0.001'/>
+    <testcase classname='MatchTestAppTests.MatchTestAppTests' name='testPerformanceExample' time='0.427'/>
+  </testsuite>
+</testsuites>
